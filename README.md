@@ -4,7 +4,9 @@ Apresento o Conversor de Moedas, uma ferramenta desenvolvida com HTML, CSS e Jav
 
 ▫Como Funciona:
 -Inserção Simples: Basta digitar o valor em reais que você deseja converter. 💵
+
 -Seleção de Moeda: Escolha a moeda para a qual deseja converter o valor. 🔄
+
 -Resultado Instantâneo: Veja o resultado da conversão de forma rápida e direta. 📊
 
 ▫Linguagens Utilizadas:
@@ -23,3 +25,6 @@ Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato c
 ## LinkedIn 💼
 
 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/).
+
+
+![screencapture-127-0-0-1-5500-index-html-2024-01-03-16_12_17](https://github.com/eudirianaju/Conversor-de-Moedas-Simples/assets/100884185/1a59d800-0777-4b88-b8de-7c151ea7185b)
