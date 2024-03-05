@@ -28,3 +28,4 @@ Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ana-ju
 
 
 ![screencapture-127-0-0-1-5500-index-html-2024-01-03-16_12_17](https://github.com/eudirianaju/Conversor-de-Moedas-Simples/assets/100884185/1a59d800-0777-4b88-b8de-7c151ea7185b)
+![Captura de tela 2024-03-05 004938](https://github.com/eudirianaju/Conversor-de-Moedas-Simples/assets/100884185/2697f3ae-887d-4022-8de6-d8d7c0142b42)
